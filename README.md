@@ -1,4 +1,4 @@
-# Healthhub - A Comprehensive Health Management System  
+# HealthCare - A Comprehensive Health Management System  
 
 ![52DA](https://github.com/user-attachments/assets/9f19190d-ebec-439a-8e54-a8e4f124caf4)
 
